@@ -1,0 +1,32 @@
+﻿@model PlayerInfo
+
+@{
+    ViewBag.Title = ViewData["PageTitle"];
+}
+
+<form asp-controller="Home" asp-action="UpdatePlayerInfo" method="post">
+
+    <input asp-for="PlayerId" value="@Model.PlayerId" hidden="hidden">
+
+    <input asp-for="PlayerName" value="@Model.PlayerName" hidden="hidden">
+
+    <input asp-for="PlayerPhotopath" value="@Model.PlayerPhotopath" hidden="hidden">
+
+    <label>Updating Personal info of @Model.PlayerName</label>
+
+    <div>
+        <label asp-for="PlayerAge">PlayerAge : </label>
+        <input asp-for="PlayerAge">
+    </div>
+    <div>
+        <label asp-for="PlayerAddress">PlayerAddress : </label>
+        <input asp-for="PlayerAddress">
+    </div>
+
+    <br />
+
+    <div>
+        <button type="submit">Update Details</button>
+    </div>
+
+</form>

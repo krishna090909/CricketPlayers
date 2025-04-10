@@ -1,0 +1,28 @@
+﻿@model CompleteViewModelData
+
+@{     
+    ViewBag.Title = Model.ViewModelPageTitle;
+}
+    
+    <h2>Personal details of @Model.CompletePlayerInfo.PlayerName</h2>
+
+<table border-spacing: 30px;>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Age</th>
+            <th>Address</th>
+        </tr>
+    </thead> 
+    <tr>
+        <td>@Model.CompletePlayerInfo.PlayerName</td>
+        <td>@Model.CompletePlayerInfo.PlayerAge</td>
+        <td>@Model.CompletePlayerInfo.PlayerAddress</td>
+
+        <td><pre>   <a asp-controller="Home" asp-action="UpdatePlayerInfo" asp-route-PlayerId="@Model.CompletePlayerInfo.PlayerId">Update Player Details</a></pre></td>
+
+        <td><pre>   <a asp-controller="Home" asp-action="PlayersList">Back to Players List</a></pre></td>
+    </tr>            
+</table>
+
+    

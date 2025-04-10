@@ -1,0 +1,11 @@
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\images\532b1627-7df1-4deb-a0ce-2a8270a20e32_Dhoni.png
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\images\9955d225-cf67-4504-b8fa-31dc331cb41d_Virat.png
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\images\noImage.png
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\wwwroot\index.html
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.json
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\Project_Demo_1.dll
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\Project_Demo_1.runtimeconfig.json
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\Project_Demo_1.pdb
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\Project_Demo_1.Views.dll
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\Project_Demo_1.Views.pdb
+C:\Users\krishna.dd\Documents\Visual Studio 2019\krishna\My_Projects\Topics_DOTNETCORE\8\Project_Demo_1\obj\Release\netcoreapp2.1\PubTmp\Out\Project_Demo_1.deps.json

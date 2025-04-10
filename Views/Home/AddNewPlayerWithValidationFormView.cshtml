@@ -1,0 +1,36 @@
+﻿@model CompleteViewModelData
+
+@{ 
+    ViewBag.Title = "Form with Validation";
+}
+
+<form enctype="multipart/form-data" asp-controller="Home" asp-action="AddNewPlayerToPlayerDetails" method="post">
+
+    <div>
+        <label asp-for="CompletePlayerInfo.PlayerName">PlayerName</label>
+        <input asp-for="CompletePlayerInfo.PlayerName" type="text">
+        <span asp-validation-for="CompletePlayerInfo.PlayerName"></span>
+    </div>
+
+    <div>
+        <label asp-for="CompletePlayerInfo.PlayerAge">PlayerAge</label>
+        <input asp-for="CompletePlayerInfo.PlayerAge" type="text">
+        <span asp-validation-for="CompletePlayerInfo.PlayerAge"></span>
+    </div>
+
+    <div>
+        <label asp-for="CompletePlayerInfo.PlayerAddress">PlayerAddress</label>
+        <input asp-for="CompletePlayerInfo.PlayerAddress" type="text">
+        <span asp-validation-for="CompletePlayerInfo.PlayerAddress"></span>
+    </div>
+
+    <div>
+        <label asp-for="PlayerPhoto">PlayerPhoto</label>        
+        <input asp-for="PlayerPhoto">       
+    </div>
+
+    <div>
+        <button type="submit">Add Player</button>
+    </div>
+
+</form>
